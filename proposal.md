@@ -6,4 +6,4 @@ The purpose of this Github repository is to develop a **partially annotated** ge
 > 
 > Despite these factors, there are many phenotypic aspects that we do not know about this organism, chiefly in regards to its immune system.
 > In an response to this, this repository will attempt to partially annotate the American cockroach genome with a focus on immune genes, so as to translate a computational basis into functional "wet lab" experiments.
-
+# Methodology 
