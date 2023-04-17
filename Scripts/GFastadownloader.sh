@@ -1,6 +1,4 @@
 #!/bin/bash
- 
-module load fastqc
 
 FILELIST='accessioncodes.txt'
 
